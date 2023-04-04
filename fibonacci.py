@@ -21,4 +21,4 @@ while not pertence:
     elif termo > numero:
         print("O número", numero, "não pertence à sequência de Fibonacci.")
         break
-    i += 1
+    i += 1 
